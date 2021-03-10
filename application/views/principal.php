@@ -7,6 +7,6 @@
     <title>Página principal</title>
 </head>
 <body>
-    <h1>Essa é a página principal</h1>
+    <h1>Essa e a página principal</h1>
 </body>
 </html>
