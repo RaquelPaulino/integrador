@@ -10,7 +10,7 @@
     <h1> Lista de gastos de Fevereiro </h1>
     <table> 
     <tr> 
-    <td>Data</td><td>Descrição</td><td>Valor</td>
+    <td> Data </td><td>Descrição</td><td>Valor</td>
     </tr>
     <tr>
     <td>01/02/2021</td><td>Passagem de ônibus</td><td>R$ 4,00</td>

@@ -20,6 +20,6 @@ class Contato extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('formas_de_contato');
+		$this->load->view('formas_de_contatos');
 	}
 }

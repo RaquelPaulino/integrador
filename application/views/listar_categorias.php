@@ -7,13 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-<h1> Entre em contato através dos meios a seguir:</h1>
-<ul>
-<li> E-mail</li>
-<li>Chat</li>
-<li>Telefone</li>
-<li>Lojas fisicas</li>
-</ul>
-    
+    <ul>
+    <li>Transportes</li>
+    <li>Alimentação</li>
+    <li>Saúde</li>
+    </ul>
 </body>
 </html>
