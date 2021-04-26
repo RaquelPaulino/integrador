@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Gastos extends CI_Controller {
+class cadastro extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,10 +20,11 @@ class Gastos extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('listar_gastos');
+		$this->load->view('listar_cadastro');
 	}
     public function novo()
 	{
-		$this->load->view('novo_gasto');
+		$this->load->view('novo_cadastro');
     }    
+	
 }

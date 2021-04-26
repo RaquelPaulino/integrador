@@ -7,12 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Novo Gasto </h1>
-    <form action="">
-    <label for="data"> Nome: <input type="text" name="nome"> </label><br/>
-    <label for="descrição"> Descrição: <input type="text" name="descrição"> </label><br/> 
+    <h1> Novo Cadastro </h1>
     
-    <button type="button"> Enviar </button>
+    <form>
+    <label for="nome"> Nome: <input type="text" name="nome"> </label><br/>
+    <label for="descrição"> Matricula: <input type="number" name="numero"> </label><br/> 
+    
+    <button type="button"> Enviar </button></br>
     <button type="resert"> Limpar </button>
     </form>
 

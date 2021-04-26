@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Contato extends CI_Controller {
+class cardapio extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +20,10 @@ class Contato extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('formas_de_contatos');
+		$this->load->view('listar_cardapio');
 	}
+    public function novo()
+	{
+		$this->load->view('novo_cardapio');
+    }    
 }

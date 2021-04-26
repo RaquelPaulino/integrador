@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Categorias extends CI_Controller {
+class feedback extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,10 +20,6 @@ class Categorias extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('listar_categorias');
+		$this->load->view('formas_de_feedback');
 	}
-    public function novo()
-	{
-		$this->load->view('nova_categoria');
-    }    
 }
