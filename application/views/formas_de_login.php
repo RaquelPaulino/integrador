@@ -11,7 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1> Login </h1>
+    <h1> Tela Inicial </h1>
 
     <form></form>
         <div class="form-group">
